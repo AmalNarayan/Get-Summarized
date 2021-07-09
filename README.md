@@ -6,8 +6,6 @@ Requirements
 
 NLTK --> pip install nltk
 
-Beautiful Soup --> pip install beautifulsoup4
-
 
 Text Input ->
 

@@ -106,7 +106,7 @@ class TextSummarizer:
      def print_summary(self,sentenceValue,average):
           summary = ''
           for sentence in self.sentences:
-               if (sentence in sentenceValue) and (sentenceValue[sentence] > (1.5 * average)):
+               #if (sentence in sentenceValue) and (sentenceValue[sentence] > (1.5 * average)):
                     summary += " " + sentence
           
           #print(summary)
